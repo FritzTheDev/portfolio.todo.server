@@ -1,0 +1,10 @@
+{
+  "name": "portfolio.todo.server",
+  "version": "0.1.0",
+  "description": "A cross-platform todo list app built for my portfolio; This package is the server.",
+  "main": "dist/index.js",
+  "repository": "https://github.com/ScraperDev/portfolio.todo.server",
+  "author": "Frederick Johnson <fritzj96@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
